@@ -3,11 +3,11 @@
   <title>Blog</title>
   
   
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="https://github.com/LessSugarClub/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="https://github.com/LessSugarClub/"/>
   <updated>2025-04-09T10:38:50.095Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>https://github.com/LessSugarClub/</id>
   
   <author>
     <name>LessSugarClub</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Blog</title>
-    <link href="http://localhost:4000/2025/04/09/Blog/"/>
-    <id>http://localhost:4000/2025/04/09/Blog/</id>
+    <link href="https://github.com/LessSugarClub/2025/04/09/Blog/"/>
+    <id>https://github.com/LessSugarClub/2025/04/09/Blog/</id>
     <published>2025-04-09T10:35:27.000Z</published>
     <updated>2025-04-09T10:38:50.095Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://localhost:4000/2025/04/09/hello-world/"/>
-    <id>http://localhost:4000/2025/04/09/hello-world/</id>
+    <link href="https://github.com/LessSugarClub/2025/04/09/hello-world/"/>
+    <id>https://github.com/LessSugarClub/2025/04/09/hello-world/</id>
     <published>2025-04-09T09:38:18.175Z</published>
     <updated>2025-04-09T09:38:18.175Z</updated>
     
