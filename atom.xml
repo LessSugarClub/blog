@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog</title>
+  <title>半糖</title>
   
-  
+  <subtitle>ing</subtitle>
   <link href="https://github.com/LessSugarClub/atom.xml" rel="self"/>
   
   <link href="https://github.com/LessSugarClub/"/>
-  <updated>2025-04-09T10:38:50.095Z</updated>
+  <updated>2025-04-10T06:27:47.297Z</updated>
   <id>https://github.com/LessSugarClub/</id>
   
   <author>
@@ -18,14 +18,25 @@
   
   <entry>
     <title>Blog</title>
-    <link href="https://github.com/LessSugarClub/2025/04/09/Blog/"/>
-    <id>https://github.com/LessSugarClub/2025/04/09/Blog/</id>
+    <link href="https://github.com/LessSugarClub/2025/04/09/Hello/"/>
+    <id>https://github.com/LessSugarClub/2025/04/09/Hello/</id>
     <published>2025-04-09T10:35:27.000Z</published>
-    <updated>2025-04-09T10:38:50.095Z</updated>
+    <updated>2025-04-10T06:27:47.297Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hello-Everyone"><a href="#Hello-Everyone" class="headerlink" title="Hello Everyone"></a>Hello Everyone</h2><p>心血来潮尝试基于Github Page、Hexo和Next搭建了一个自己的简易博客，目前还非常简陋，后面也不知道会不会继续更新，争取努力时不时的写点什么吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Hello-Everyone&quot;&gt;&lt;a href=&quot;#Hello-Everyone&quot; class=&quot;headerlink&quot; title=&quot;Hello Everyone&quot;&gt;&lt;/a&gt;Hello Everyone&lt;/h2&gt;&lt;p&gt;心血来潮尝试基于Github Page、He</summary>
+      
     
     
     
+    <category term="生活" scheme="https://github.com/LessSugarClub/categories/%E7%94%9F%E6%B4%BB/"/>
     
+    
+    <category term="life" scheme="https://github.com/LessSugarClub/tags/life/"/>
     
   </entry>
   
